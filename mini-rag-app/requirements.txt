@@ -1,3 +1,15 @@
-fastapi==0.121.1
-uvicorn[standard]==0.38.0
+# Core web
+fastapi==0.100.0
+uvicorn==0.22.0
 python-multipart==0.0.20
+
+# RAG stack
+#langchain==0.0.346
+#openai==0.28.1
+#chromadb==0.4.15
+#sentence-transformers==2.2.2
+
+# Utilities
+#pypdf==3.17.0
+#python-dotenv==1.0.0
+#pytest==7.4.0
