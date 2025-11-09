@@ -1,0 +1,51 @@
+Licence Apache
+version 2.0, janvier 2004
+http://www.apache.org/licenses/
+
+CONDITIONS GÉNÉRALES D'UTILISATION, DE REPRODUCTION ET DE DISTRIBUTION
+
+1. Définitions .
+
+« Licence » désigne les termes et conditions d’utilisation, de reproduction et de distribution tels que définis par les articles 1 à 9 du présent document.
+
+« Concédant de licence » désigne le titulaire du droit d'auteur ou l'entité autorisée par celui-ci à accorder la licence.
+
+« Entité juridique » désigne l’ensemble formé par l’entité agissante et toutes les autres entités qui la contrôlent, sont contrôlées par elle ou sont sous contrôle commun avec elle. Aux fins de cette définition, le terme « contrôle » s’entend : (i) du pouvoir, direct ou indirect, d’orienter ou de gérer cette entité, que ce soit par contrat ou autrement ; (ii) de la détention de cinquante pour cent (50 %) ou plus des actions en circulation ; ou (iii) de la propriété effective de cette entité.
+
+« Vous » (ou « Votre ») désigne une personne physique ou morale exerçant les autorisations accordées par la présente licence.
+
+Le terme « source » désigne le format privilégié pour effectuer des modifications, y compris, mais sans s'y limiter, le code source du logiciel, le code source de la documentation et les fichiers de configuration.
+
+Le terme « forme objet » désigne toute forme résultant d'une transformation ou d'une traduction mécanique d'une forme source, y compris, mais sans s'y limiter, le code objet compilé, la documentation générée et les conversions vers d'autres types de médias.
+
+« Œuvre » désigne l’œuvre de l’esprit, qu’elle soit sous forme de code source ou d’objet, mise à disposition en vertu de la Licence, comme indiqué par une mention de droit d’auteur incluse dans ou jointe à l’œuvre (un exemple est fourni dans l’Annexe ci-dessous).
+
+Par « œuvres dérivées », on entend toute œuvre, sous forme de code source ou de fichier objet, qui est basée sur (ou dérivée de) l’Œuvre et dont les révisions éditoriales, annotations, développements ou autres modifications constituent, dans leur ensemble, une œuvre originale. Aux fins de la présente Licence, les œuvres dérivées n’incluent pas les œuvres qui restent dissociables de l’Œuvre et de ses œuvres dérivées, ni celles qui se contentent de renvoyer (ou de se lier par leur nom) à leurs interfaces.
+
+« Contribution » désigne toute œuvre de l’esprit, y compris la version originale de l’Œuvre et toute modification ou ajout à cette Œuvre ou aux Œuvres dérivées de celle-ci, qui est intentionnellement soumise au Concédant pour inclusion dans l’Œuvre par le titulaire des droits d’auteur ou par une personne physique ou morale autorisée à soumettre une contribution au nom du titulaire des droits d’auteur. Aux fins de cette définition, « soumis » désigne toute forme de communication électronique, verbale ou écrite adressée au Concédant ou à ses représentants, y compris, mais sans s’y limiter, les communications sur les listes de diffusion électroniques, les systèmes de contrôle de code source et les systèmes de suivi des problèmes gérés par le Concédant ou pour son compte, dans le but de discuter de l’Œuvre et de l’améliorer, à l’exclusion des communications clairement identifiées ou désignées par écrit par le titulaire des droits d’auteur comme « Non une Contribution » .
+
+« Contributeur » désigne le concédant de licence et toute personne physique ou morale pour le compte de laquelle une contribution a été reçue par le concédant de licence et ultérieurement intégrée à l'œuvre.
+
+2. Octroi de licence de droit d'auteur . Sous réserve des termes et conditions de la présente licence, chaque contributeur vous concède par la présente une licence de droit d'auteur perpétuelle, mondiale, non exclusive, gratuite, sans redevance et irrévocable pour reproduire, préparer des œuvres dérivées, afficher publiquement, exécuter publiquement, concéder en sous-licence et distribuer l'œuvre et ces œuvres dérivées sous forme de code source ou de code objet.
+
+3. Octroi de licence de brevet . Sous réserve des termes et conditions de la présente Licence, chaque Contributeur vous concède par les présentes une licence de brevet perpétuelle, mondiale, non exclusive, gratuite, sans redevance et irrévocable (sauf disposition contraire de la présente section) vous autorisant à fabriquer, faire fabriquer, utiliser, proposer à la vente, vendre, importer et transférer l'Œuvre. Cette licence s'applique uniquement aux revendications de brevet concédables par ledit Contributeur qui sont nécessairement contrefaites par sa ou ses Contributions, seules ou combinées à l'Œuvre à laquelle elles ont été soumises. Si vous engagez une action en contrefaçon de brevet contre toute entité (y compris une demande reconventionnelle) alléguant que l'Œuvre ou une Contribution incorporée à l'Œuvre constitue une contrefaçon directe ou indirecte de brevet, les licences de brevet qui vous sont concédées en vertu de la présente Licence pour cette Œuvre prendront fin à la date d'introduction de cette action.
+
+4. Redistribution . Vous pouvez reproduire et distribuer des copies de l'Œuvre ou des Œuvres dérivées de celle-ci sur tout support, avec ou sans modifications, et sous forme de code source ou de code objet, à condition de respecter les conditions suivantes :
+
+Vous devez remettre à tout autre destinataire de l'Œuvre ou des Œuvres dérivées une copie de la présente Licence ; et
+Vous devez faire en sorte que tous les fichiers modifiés comportent des mentions bien visibles indiquant que vous avez modifié les fichiers ; et
+Vous devez conserver, dans le formulaire source de toute œuvre dérivée que vous distribuez, tous les avis de droit d'auteur, de brevet, de marque de commerce et d'attribution figurant dans le formulaire source de l'œuvre, à l'exclusion des avis qui ne concernent aucune partie des œuvres dérivées; et
+Si l'Œuvre inclut un fichier texte « NOTICE » dans sa distribution, toute Œuvre Dérivée que vous distribuez doit inclure une copie lisible des mentions d'attribution contenues dans ce fichier, à l'exclusion des mentions qui ne concernent aucune partie des Œuvres Dérivées, à au moins un des emplacements suivants : dans un fichier texte « NOTICE » distribué avec les Œuvres Dérivées ; dans le code source ou la documentation, s'ils sont fournis avec les Œuvres Dérivées ; ou dans un affichage généré par les Œuvres Dérivées, si et où ces mentions de tiers apparaissent normalement. Le contenu du fichier « NOTICE » est fourni à titre informatif uniquement et ne modifie pas la Licence. Vous pouvez ajouter vos propres mentions d'attribution dans les Œuvres Dérivées que vous distribuez, en complément ou en annexe du texte « NOTICE » de l'Œuvre, à condition que ces mentions d'attribution supplémentaires ne puissent être interprétées comme modifiant la Licence.
+Vous pouvez ajouter votre propre déclaration de droit d'auteur à vos modifications et fournir des conditions de licence supplémentaires ou différentes pour l'utilisation, la reproduction ou la distribution de vos modifications, ou pour toute œuvre dérivée dans son ensemble, à condition que votre utilisation, reproduction et distribution de l'œuvre soient par ailleurs conformes aux conditions énoncées dans la présente licence.
+
+5. Soumission des Contributions . Sauf indication contraire expresse de votre part, toute Contribution que vous soumettez intentionnellement au Concédant pour inclusion dans l'Œuvre sera soumise aux termes et conditions de la présente Licence, sans conditions supplémentaires. Nonobstant ce qui précède, aucune disposition des présentes ne saurait se substituer aux termes ou modifier les termes de tout accord de licence distinct que vous auriez conclu avec le Concédant concernant ces Contributions.
+
+6. Marques commerciales . La présente licence n'autorise pas l'utilisation des noms commerciaux, marques commerciales, marques de service ou noms de produits du concédant de licence, sauf dans la mesure nécessaire à une utilisation raisonnable et habituelle pour décrire l'origine de l'œuvre et reproduire le contenu du fichier NOTICE.
+
+7. Exclusion de garantie . Sauf disposition légale ou accord écrit contraire, le Concédant fournit l'Œuvre (et chaque Contributeur fournit ses Contributions) « EN L'ÉTAT », SANS GARANTIE NI CONDITION D'AUCUNE SORTE, expresse ou implicite, y compris, sans limitation, toute garantie ou condition de PROPRIÉTÉ, d'ABSENCE DE CONTREFAÇON, de QUALITÉ MARCHANDE ou d'ADÉQUATION À UN USAGE PARTICULIER. Il vous incombe de déterminer si l'utilisation ou la redistribution de l'Œuvre est appropriée et vous assumez tous les risques liés à l'exercice des droits qui vous sont conférés par la présente Licence.
+
+8. Limitation de responsabilité . En aucun cas et en vertu d'aucune théorie juridique, qu'il s'agisse de responsabilité délictuelle (y compris la négligence), contractuelle ou autre, sauf si la loi applicable l'exige (comme en cas d'actes délibérés ou de négligence grave) ou si cela a été convenu par écrit, un Contributeur ne sera responsable envers Vous des dommages, y compris les dommages directs, indirects, spéciaux, accessoires ou consécutifs de quelque nature que ce soit, découlant de la présente Licence ou de l'utilisation ou de l'impossibilité d'utiliser l'Œuvre (y compris, mais sans s'y limiter, les dommages pour perte de clientèle, arrêt de travail, panne ou dysfonctionnement informatique, ou tout autre dommage ou perte commerciale), même si ce Contributeur a été informé de la possibilité de tels dommages.
+
+9. Acceptation de garanties ou de responsabilités supplémentaires . Lors de la redistribution de l'Œuvre ou des Œuvres dérivées, vous pouvez proposer, moyennant rémunération, une assistance, une garantie, une indemnisation ou d'autres obligations et/ou droits de responsabilité conformes à la présente Licence. Toutefois, en acceptant de telles obligations, vous agissez uniquement en votre nom propre et sous votre seule responsabilité, et non au nom d'un autre Contributeur. De plus, vous vous engagez à indemniser, défendre et dégager de toute responsabilité chaque Contributeur pour toute responsabilité encourue ou réclamation formulée à son encontre du fait de votre acceptation d'une telle garantie ou responsabilité supplémentaire.
+
+FIN DES CONDITIONS GÉNÉRALES
